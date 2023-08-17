@@ -1,0 +1,17 @@
+{
+    "name": "romulo2735/project-manager",
+    "description": "Project Manager",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ProjectManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Romulo Sousa",
+            "email": "romulosousa27@hotmail.com"
+        }
+    ],
+    "require": {}
+}
